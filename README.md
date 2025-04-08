@@ -22,7 +22,7 @@ AtliQ Hardwares is facing challenges optimizing sales and improving net gross ma
 
 ### 🧾 Finance Reports
 
-- **Profit & Loss by Fiscal Year**
+- **[Profit & Loss by Fiscal Year](./P%20&%20L%20by%20Fiscal%20Years.pdf)**
 - **Profit & Loss by Months**
 - **Profit & Loss by Markets**
 
