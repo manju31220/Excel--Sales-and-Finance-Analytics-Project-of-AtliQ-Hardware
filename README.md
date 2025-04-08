@@ -23,8 +23,8 @@ AtliQ Hardwares is facing challenges optimizing sales and improving net gross ma
 ### 🧾 Finance Reports
 
 - **[Profit & Loss by Fiscal Year](./P%20&%20L%20by%20Fiscal%20Years.pdf)**
-- **Profit & Loss by Months**
-- **Profit & Loss by Markets**
+- **[Profit & Loss by Months](./P%20&%20L%20by%20Fiscal%20Months.pdf)**
+- **[Profit & Loss by Markets](./P&%20L%20by%20Markets.pdf)**
 
 These reports include key metrics such as:
 - Net Sales
@@ -34,8 +34,8 @@ These reports include key metrics such as:
 
 ### 📈 Sales Reports
 
-- **Customer Performance Report**
-- **Market Performance vs Sales Target Report**
+- **[Customer Performance Report](./Customer%20Net%20Sales%20Performance%20Report.pdf)**
+- **[Market Performance vs Sales Target Report](./Market%20vs%20Target%20Performance%20Report.pdf)**
 
 These reports helped:
 - Track sales trends across countries and regions.
